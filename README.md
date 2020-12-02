@@ -1,8 +1,10 @@
 # CoviBot-Telegram
-### My bot is made purely in python.The data is taken from the John Hopkins covid19py API.
-### It boasts data for over 420 countries and has data about confirmed, recovered ,active cases and no.of deaths.
+### All of these bots get their data from the John Hopkins Covidpy library.
+### the library boasts frequesntly updated data for over 420 countries and has data about confirmed, recovered ,active cases and no.of deaths,etc.
 
-![Working](Exampl.PNG)
+![Discord Bot](../main/readme/disc.png)
 ***
+![Telegram Bot](../main/readme/tele.PNG)
+![Twitter Bot](../main/readme/Twwet.PNG)
 
-### **http://t.me/JohnHopkinsCovidbot**
+### The bots havent been hosted on heroku yet but feel free to ask me anything about the development or usage.
