@@ -1,6 +1,6 @@
 # CoviBot-Telegram
 ### All of these bots get their data from the John Hopkins Covidpy library.
-### the library boasts frequesntly updated data for over 420 countries and has data about confirmed, recovered ,active cases and no.of deaths,etc.
+### The library boasts frequesntly updated data for over 420 countries and has data about confirmed, recovered ,active cases and no.of deaths,etc.
 
 ![Discord Bot](../main/readme/disc.png)
 ***
