@@ -1,6 +1,6 @@
 import tweepy
 import logging
-from auth import create_api
+from twitterauth import create_api
 import time
 from covid import Covid
 covid = Covid()
